@@ -11,8 +11,12 @@ This application can perform CRUD operations on the User entity like:
 # Create a User
 ![Screenshot (266)](https://github.com/sushantabrin/crud_api/assets/97043022/6edc28f8-903b-4783-8434-0fa3bfd087fe)
 
+>
+
 # Read all Users
 ![Screenshot (267)](https://github.com/sushantabrin/crud_api/assets/97043022/8e2f56e0-c883-4a56-8bce-a07e72ccf200)
+
+>
 
 # Update a User
 Here I will update the Dummy user with ID : 5
@@ -26,6 +30,8 @@ We can verify also in our MySQL workbench:
 
 We can also verify using the endpoint created: 
 ![Screenshot (271)](https://github.com/sushantabrin/crud_api/assets/97043022/e1797771-af84-4817-82ae-ccf6ceb7d9c5)
+
+>
 
 # Delete a user
 Here I will delete the John Wick user with ID : 5
