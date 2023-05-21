@@ -19,31 +19,31 @@ This application can perform CRUD operations on the User entity like:
 
 
 # Update a User
-> Here I will update the Dummy user with ID : 5
+### Here I will update the Dummy user with ID : 5
 ![Screenshot (268)](https://github.com/sushantabrin/crud_api/assets/97043022/eeeacc96-2190-4a04-9382-d02c927375b0)
 
-> We can fetch all the Users again to verify: 
+### We can fetch all the Users again to verify: 
 ![Screenshot (269)](https://github.com/sushantabrin/crud_api/assets/97043022/1a8b3026-d087-4b1f-9cb1-493e87438adf)
 
-> We can verify also in our MySQL workbench:
+### We can verify also in our MySQL workbench:
 ![Screenshot (270)](https://github.com/sushantabrin/crud_api/assets/97043022/4e9d172d-a8c1-4e7e-b22a-fa8dedeea44b)
 
-> We can also verify using the endpoint created: 
+### We can also verify using the endpoint created: 
 ![Screenshot (271)](https://github.com/sushantabrin/crud_api/assets/97043022/e1797771-af84-4817-82ae-ccf6ceb7d9c5)
 
 
 
 # Delete a user
-> Here I will delete the John Wick user with ID : 5
+### Here I will delete the John Wick user with ID : 5
 ![Screenshot (274)](https://github.com/sushantabrin/crud_api/assets/97043022/09f45469-36f1-4eb4-a3bf-ad5f99034d75)
 
-> We can fetch all the Users again to verify: 
+### We can fetch all the Users again to verify: 
 ![Screenshot (272)](https://github.com/sushantabrin/crud_api/assets/97043022/5e269d52-1a02-42bb-b589-4d0cc4f88c86)
 
-> We can verify also in our MySQL workbench:
+### We can verify also in our MySQL workbench:
 ![Screenshot (275)](https://github.com/sushantabrin/crud_api/assets/97043022/a39c076e-7131-446d-bd7e-94ef3718b999)
 
-> We can also verify using the endpoint created:
+### We can also verify using the endpoint created:
 ![Screenshot (273)](https://github.com/sushantabrin/crud_api/assets/97043022/a302cb17-46db-458e-a8b6-79e99a3a1cd6)
 
 
