@@ -1,4 +1,4 @@
-# Fully functional CRUD restfull API 
+# Fully functional CRUD RESTful API 
 ## Using [Java](https://www.oracle.com/in/java/technologies/downloads/#java17), [MySQL](https://dev.mysql.com/downloads/workbench/), [SpringBoot](https://start.spring.io/), JPA and Maven
 We will use **[POSTMAN](https://www.postman.com/downloads/)** for testing the APIs.
 
